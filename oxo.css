@@ -1,0 +1,50 @@
+﻿h3 {
+    color: darkgoldenrod;
+    font-weight: 100;
+    letter-spacing: 20px;
+    font-size: 6em;
+    opacity: .85;
+    font-family: Limelight;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+
+}
+div h4 {
+    color: darkgoldenrod;
+    font-weight: 100;
+    letter-spacing: 20px;
+    font-size: 2em;
+    opacity: .85;
+    font-family: Limelight;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    padding-bottom: 4rem;
+    padding-top: 4rem;
+}
+html {
+    background-image: url(background15.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: top;
+    background-size: cover;
+}
+div {
+    font-family: Limelight;
+    color: gold;
+    opacity: .90;
+}
+nav .navbar-nav {
+    font-family: Limelight;
+    opacity: .35;
+    padding-left: 1rem;
+}
+nav .navbar-brand {
+    font-family: Limelight;
+    padding-left: 1rem;
+    color: darkgoldenrod;
+    font-size: 2em;
+    opacity: .75;
+}
+
